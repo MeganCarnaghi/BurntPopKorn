@@ -3,7 +3,9 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: calc(100vh - 174.3px);
+  /* height: calc(100vh - 174.3px); */
+  height: 100vh;
+  width: 100%;
 }
 
 .loginForm__section {
