@@ -51,7 +51,7 @@ And I want a way to see my viewing activity over time.
 
 ## Link to Application
 
-<https://burntpopkorn.herokuapp.com/>
+https://burntpopkorn-mc.herokuapp.com/
 
 ## License
 
